@@ -1,3 +1,4 @@
+
 # 🌀 FlowTrackAI
 
 ### Lightweight AI for Retail Behavior & Spatial Flow Analysis
@@ -17,16 +18,9 @@ Files
 ├── Figure1.png
 ├── README.md
 ├── main.py
+├── trained_model_best.zip
 └── yolov8s.pt
 ```
-
-> ✅ **Tip:**
->
-> * Place `Figure1.png` in the root directory.
-> * Use `./Figure1.png` in the README to ensure GitHub renders the preview correctly.
-> * If the image doesn’t display, check filename case and commit status.
-> * For large models (like `yolov8s.pt`), use **Git LFS**.
-
 ---
 
 ## 🎯 Project Purpose & Scope
@@ -208,7 +202,6 @@ For commercial applications, ensure compliance with YOLO model and privacy terms
 
 ## 📬 Contact
 
-**👤 Author:** [Omer Cevher](https://github.com/CevherOmer)
 **📧 Email:** [omerc3v@gmail.com](mailto:omerc3v@gmail.com)
 **🔗 LinkedIn:** [linkedin.com/in/cevheromer](https://www.linkedin.com/in/cevheromer)
 
@@ -216,6 +209,11 @@ For collaboration, research discussions, or demonstrations, please get in touch.
 
 ---
 
+
 ### 👤 Author
 
 Omer Cevher – [GitHub Profile](https://github.com/CevherOmer)
+
+---
+© 2025 Omer Cevher — FlowTrackAI Research Prototype
+
